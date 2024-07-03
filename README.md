@@ -1,3 +1,8 @@
+Progetto sviluppato dagli studenti:
+- Edoardo Crosera (matricola 986874)
+- Alessandro Di Matteo (matricola 01708A)
+- Alessio Colombi (matricola 986643)
+
 ITA
 Il progetto ha l'obiettivo di fare una comparazione tra il funzionamento del Face Recognition:
 - Negli umani, dove vediamo le caratteristiche fisiche utilizzate e le zone del cervello che vengono attivate maggiormente per svolgere questo compito.
